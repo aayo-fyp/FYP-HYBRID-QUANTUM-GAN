@@ -1,0 +1,16 @@
+# Core ML Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Quantum Computing
+pennylane>=0.33.0
+qiskit>=1.0.0
+
+# Chemistry/Molecular
+rdkit>=2023.9.1
+
+# Data & Visualization
+numpy>=1.24.0
+matplotlib>=3.7.0
+networkx>=3.1
+
